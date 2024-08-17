@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 // import capture from '../../../public/capture.PNG'
-import rabbi from '../../../public/rabbi.jpg'
+import rabbi from '../../../public/rabbi.JPG'
 
 const More = () => {
   return (
