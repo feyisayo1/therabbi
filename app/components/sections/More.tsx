@@ -41,8 +41,8 @@ const More = () => {
                     </div>
 
                     <div className='inline-flex gap-2 [&>*]:text-purple-400 font-bold'>
-                        <p>#Reformer</p>
                         <p>#Revivalist</p>
+                        <p>#Reformer</p>
                         <p>#Apostle of Christ.</p>
                         <p>#Apostle in the Market Place </p>
                         
