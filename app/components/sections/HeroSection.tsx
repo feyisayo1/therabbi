@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 // import therabbi from '../../therabbi.PNG'
-import therabbi from '../../../public/therabbi.PNG'
+import therabbi from '../../../public/therabbi.png'
 
 const HeroSection = () => {
   return (
