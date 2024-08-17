@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
-import capture from '../../../public/capture.PNG'
+// import capture from '../../../public/capture.PNG'
+import rabbi from '../../../public/rabbi.jpg'
 
 const More = () => {
   return (
@@ -90,7 +91,7 @@ const More = () => {
                 </div>
 
                 <div className='w-[25%] h-full'>
-                    <Image src={capture} alt='therabbi' className='rounded-2xl'/>
+                    <Image src={rabbi} alt='therabbi' className='rounded-2xl'/>
                 </div>
 
             </div>
