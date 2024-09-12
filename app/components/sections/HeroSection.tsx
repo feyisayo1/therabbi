@@ -20,9 +20,9 @@ const HeroSection = () => {
               {/* <Image src={therabbi} alt='therabbi'className='h-[80vh] flex flex-row justify-center rounded-2xl'/> */}
               <img src="https://images.msha.ke/d30b510f-8084-4048-8b89-5c3a7951a6e5?auto=format%2Ccompress&cs=tinysrgb&q=30&w=828" alt="TheRabbi" className='h-[80vh] flex flex-row justify-center rounded-2xl'/>
             </div>
-          
-          {/* </div> */}n/ 
-        </div> 
+          /
+          {/* </div> */}
+        </div>
       </section>
     </>
   )
