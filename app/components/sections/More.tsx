@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 // import capture from '../../../public/capture.PNG'
-import rabbi from '../../../public/rabbi.JPG'
+// import rabbi from '../../../public/rabbi.JPG'
 
 const More = () => {
   return (
@@ -91,7 +91,8 @@ const More = () => {
                 </div>
 
                 <div className='w-[25%] h-full'>
-                    <Image src={rabbi} alt='therabbi' className='rounded-2xl'/>
+                    {/* <Image src={rabbi} alt='therabbi' className='rounded-2xl'/> */}
+                    <img src="https://images.msha.ke/3c7282cb-7a3c-4c2e-999e-e25c34f1e02e?auto=format%2Ccompress&cs=tinysrgb&q=30&w=828" alt="" className='rounded-2xl'/>
                 </div>
 
             </div>
