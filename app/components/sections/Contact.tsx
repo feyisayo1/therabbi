@@ -8,7 +8,7 @@ import { CallCalling, Message } from "iconsax-react";
 const Contact = () => {
   return (
     <>
-      <section className='pb-14 pt-14'>
+      <section id='contact' className='pb-14 pt-14'>
         <div className="flex w-full h-fit items-center justify-center">
               <h1 className="flex border-none rounded-2xl outline-none text-[1.5rem] py-3 px-4  text-purple-400 leading-none hover:bg-black">
                   Get In Touch
@@ -23,7 +23,7 @@ const Contact = () => {
             <AnalogClock/>
           </div>
 
-          <div className='flex flex-row justify-around text-center'>
+          <div className='flex flex-row justify-around text-center max-sm:flex-col'>
             <div>
               <h1 className='text-2xl font-bold'>WEDNESDAYS</h1>
               <p>2:30pm - 5:30pm GMT</p>
